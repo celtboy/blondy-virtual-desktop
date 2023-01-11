@@ -1,0 +1,11 @@
+D:\Apps\VirtualDesktop\bin\Debug\VirtualDesktop.exe.config
+D:\Apps\VirtualDesktop\bin\Debug\VirtualDesktop.exe
+D:\Apps\VirtualDesktop\bin\Debug\VirtualDesktop.pdb
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.csproj.AssemblyReference.cache
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.csproj.SuggestedBindingRedirects.cache
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.Form1.resources
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.Properties.Resources.resources
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.csproj.GenerateResource.cache
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.csproj.CoreCompileInputs.cache
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.exe
+D:\Apps\VirtualDesktop\obj\Debug\VirtualDesktop.pdb
