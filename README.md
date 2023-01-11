@@ -15,6 +15,15 @@ Feel free to download the solution and recompile, or download the VirtualDesktop
 ### Known Bugs
 
 - You have to right-click on the System Tray Icon and select 'Show' twice in order to see the window.
-- Setting of wallpapers have a definite delay upon switching as this is tick-based.
+- Setting of wallpapers have a definite delay upon switching as this is tick-based. Currently this is set to 50. I have not tried to adjust this to a lower number. I'm assuming this is in milliseconds.
 
-This code was originally licensed under the [CPOL](https://www.codeproject.com/info/cpol10.aspx) but that is not available as a valid license type in GitHub. Please use it appropriately.
+### Requests
+- Currently you are limited to 3 virtual desktop configs. The code was hard-coded to that amount rather than using a loop to be more flexible, but I'm too lazy to refactor this. I'd add this as a feature issue and someone is welcome to do a PR. 
+- It would be nice to set the scaling options of each wallpaper and/or to have a thumbnail of the window in the form.
+
+
+
+
+### Notes
+- Unfortunately, the Windows 10 Virtual Desktop functionality is very limited. There is an excellent [Stack Overflow thread here](https://stackoverflow.com/questions/32416843/programmatic-control-of-virtual-desktops-in-windows-10) that is definitely worth reading through if you'd like to try and expand on this project.
+- This code was originally licensed under the [CPOL](https://www.codeproject.com/info/cpol10.aspx) but that is not available as a valid license type in GitHub. Please use it appropriately.
